@@ -18,6 +18,9 @@
     "url": "https://github.com/Venkysanju246/json-deploy/issues"
   },
   "homepage": "https://github.com/Venkysanju246/json-deploy#readme",
+  "engines":{
+    "node":"12.13.0"
+  },
   "dependencies": {
     "jsonserver": "^0.1.6"
   }
