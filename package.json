@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start" :"json-server --watch db.json --port 8080"
+    "start": "json-server --watch db.json --port 8080"
   },
   "repository": {
     "type": "git",
@@ -18,10 +18,10 @@
     "url": "https://github.com/Venkysanju246/json-deploy/issues"
   },
   "homepage": "https://github.com/Venkysanju246/json-deploy#readme",
-  "engines":{
-    "node":"12.13.0"
+  "engines": {
+    "node": "12.13.0"
   },
   "dependencies": {
-    "jsonserver": "^0.1.6"
+    "json-server": "^0.17.3"
   }
 }
